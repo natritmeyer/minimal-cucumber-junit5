@@ -1,0 +1,14 @@
+# build
+target/
+
+# Intellij
+.idea/
+*.iml
+
+# VS Code
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
